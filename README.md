@@ -40,8 +40,8 @@ I am committed to continuous learning and growth in the analytics field and brin
 
 ## 💼 Experience
 
-<details>
-<summary>
+
+<details> <summary>
   <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
     <strong>Senior Reporting Analyst — RCM Matter</strong>
     <span style="color: #666; font-size: 14px;">(Jan 2026 – Present)</span>
