@@ -85,55 +85,49 @@ I am committed to continuous learning and growth in the analytics field and brin
 
 <div align="center">
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>📊 HR Analytics Dashboard</h3>
-      <p><strong>Domain:</strong> Human Resources</p>
-      <p><strong>Tools:</strong> Power BI</p>
-      <p><em>Comprehensive HR metrics, employee performance tracking, and workforce analytics</em></p>
-      <a href="https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects"><button style="background-color: #0078d4; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">View Project →</button></a>
-    </td>
-    <td width="50%">
-      <h3>✈️ Airline Performance Dashboard</h3>
-      <p><strong>Domain:</strong> Aviation</p>
-      <p><strong>Tools:</strong> Power BI</p>
-      <p><em>Flight metrics, operational efficiency, and performance analytics</em></p>
-      <a href="https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects"><button style="background-color: #0078d4; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">View Project →</button></a>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; overflow-x: auto; gap: 20px; padding: 20px; scroll-behavior: smooth;">
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>💰 Sales KPI Dashboard</h3>
-      <p><strong>Domain:</strong> Sales & Operations</p>
-      <p><strong>Tools:</strong> Power BI</p>
-      <p><em>Revenue tracking, sales metrics, and performance indicators</em></p>
-      <a href="https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects"><button style="background-color: #0078d4; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">View Project →</button></a>
-    </td>
-    <td width="50%">
-      <h3>🏥 COVID-19 Analysis Dashboard</h3>
-      <p><strong>Domain:</strong> Healthcare</p>
-      <p><strong>Tools:</strong> Power BI</p>
-      <p><em>Pandemic data analysis, trends, and insights visualization</em></p>
-      <a href="https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects"><button style="background-color: #0078d4; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">View Project →</button></a>
-    </td>
-  </tr>
-</table>
+<div style="flex: 0 0 300px; border: 1px solid #ddd; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+<h3>📊 HR Analytics Dashboard</h3>
+<p><strong>Human Resources</strong></p>
+<p style="font-size: 14px; margin: 10px 0;">Comprehensive HR metrics, employee performance tracking, and workforce analytics</p>
+<p><strong>Tools:</strong> Power BI</p>
+<a href="https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects" style="background-color: white; color: #667eea; padding: 8px 16px; border-radius: 5px; text-decoration: none; display: inline-block; margin-top: 10px; font-weight: bold;">View →</a>
+</div>
 
-<table>
-  <tr>
-    <td width="100%">
-      <h3>🍕 Zomato Restaurant Analysis</h3>
-      <p><strong>Domain:</strong> Food & Beverage</p>
-      <p><strong>Tools:</strong> Power BI</p>
-      <p><em>Restaurant performance, ratings analysis, and market insights</em></p>
-      <a href="https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects"><button style="background-color: #0078d4; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">View Project →</button></a>
-    </td>
-  </tr>
-</table>
+<div style="flex: 0 0 300px; border: 1px solid #ddd; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color: white; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+<h3>✈️ Airline Performance</h3>
+<p><strong>Aviation</strong></p>
+<p style="font-size: 14px; margin: 10px 0;">Flight metrics, operational efficiency, and performance analytics</p>
+<p><strong>Tools:</strong> Power BI</p>
+<a href="https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects" style="background-color: white; color: #f5576c; padding: 8px 16px; border-radius: 5px; text-decoration: none; display: inline-block; margin-top: 10px; font-weight: bold;">View →</a>
+</div>
+
+<div style="flex: 0 0 300px; border: 1px solid #ddd; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); color: white; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+<h3>💰 Sales KPI Dashboard</h3>
+<p><strong>Sales & Operations</strong></p>
+<p style="font-size: 14px; margin: 10px 0;">Revenue tracking, sales metrics, and performance indicators</p>
+<p><strong>Tools:</strong> Power BI</p>
+<a href="https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects" style="background-color: white; color: #00f2fe; padding: 8px 16px; border-radius: 5px; text-decoration: none; display: inline-block; margin-top: 10px; font-weight: bold;">View →</a>
+</div>
+
+<div style="flex: 0 0 300px; border: 1px solid #ddd; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); color: white; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+<h3>🏥 COVID-19 Analysis</h3>
+<p><strong>Healthcare</strong></p>
+<p style="font-size: 14px; margin: 10px 0;">Pandemic data analysis, trends, and insights visualization</p>
+<p><strong>Tools:</strong> Power BI</p>
+<a href="https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects" style="background-color: white; color: #38f9d7; padding: 8px 16px; border-radius: 5px; text-decoration: none; display: inline-block; margin-top: 10px; font-weight: bold;">View →</a>
+</div>
+
+<div style="flex: 0 0 300px; border: 1px solid #ddd; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); color: white; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+<h3>🍕 Zomato Restaurant Analysis</h3>
+<p><strong>Food & Beverage</strong></p>
+<p style="font-size: 14px; margin: 10px 0;">Restaurant performance, ratings analysis, and market insights</p>
+<p><strong>Tools:</strong> Power BI</p>
+<a href="https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects" style="background-color: white; color: #fee140; padding: 8px 16px; border-radius: 5px; text-decoration: none; display: inline-block; margin-top: 10px; font-weight: bold;">View →</a>
+</div>
+
+</div>
 
 </div>
 
