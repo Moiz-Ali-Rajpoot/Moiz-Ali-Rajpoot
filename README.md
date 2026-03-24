@@ -29,7 +29,7 @@ I am committed to continuous learning and growth in the analytics field and brin
 <img src="https://img.icons8.com/color/96/000000/power-bi.png" alt="Power BI" width="80">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.icons8.com/color/96/000000/tableau-software.png" alt="Tableau" width="80">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.icons8.com/color/96/000000/google-looker.png" alt="Looker" width="80">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.icons8.com/color/96/000000/microsoft-excel.png" alt="MS Excel" width="80">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/96/000000/ms-excel.png" alt="Excel" width="80">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.icons8.com/color/96/000000/google-sheets.png" alt="Google Sheets" width="80">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.icons8.com/color/96/000000/mysql.png" alt="SQL" width="80">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.icons8.com/color/96/000000/python.png" alt="Python" width="80">
