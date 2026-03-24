@@ -24,11 +24,23 @@ I am committed to continuous learning and growth in the analytics field and brin
 
 ## 🛠 Tools & Technologies
 
+## 🛠 Tools & Technologies
+
 <div align="center">
 
-| Power BI | Tableau | Looker | Excel | Google Sheets | SQL | Python |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="80" height="80"> | <img src="https://cdn.worldvectorlogo.com/logos/tableau.svg" width="80" height="80"> | <img src="https://cdn.worldvectorlogo.com/logos/google-looker.svg" width="80" height="80"> | <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel.svg" width="80" height="80"> | <img src="https://cdn.worldvectorlogo.com/logos/google-sheets.svg" width="80" height="80"> | <img src="https://cdn.worldvectorlogo.com/logos/mysql.svg" width="80" height="80"> | <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="80" height="80"> |
+<img src="https://img.icons8.com/color/96/000000/power-bi.png" alt="Power BI" width="80">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/96/000000/tableau-software.png" alt="Tableau" width="80">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/96/000000/google-looker.png" alt="Looker" width="80">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/96/000000/microsoft-excel.png" alt="Excel" width="80">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/96/000000/google-sheets.png" alt="Google Sheets" width="80">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/96/000000/mysql.png" alt="SQL" width="80">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/96/000000/python.png" alt="Python" width="80">
+
+</div>
+
+<div align="center">
+
+**Power BI** &nbsp;&nbsp;&nbsp;&nbsp; **Tableau** &nbsp;&nbsp;&nbsp;&nbsp; **Looker** &nbsp;&nbsp;&nbsp;&nbsp; **Excel** &nbsp;&nbsp;&nbsp;&nbsp; **Google Sheets** &nbsp;&nbsp;&nbsp;&nbsp; **SQL** &nbsp;&nbsp;&nbsp;&nbsp; **Python**
 
 </div>
 
