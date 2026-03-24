@@ -85,47 +85,55 @@ I am committed to continuous learning and growth in the analytics field and brin
 
 <div align="center">
 
----
+<table>
+  <tr>
+    <td width="50%">
+      <h3>📊 HR Analytics Dashboard</h3>
+      <p><strong>Domain:</strong> Human Resources</p>
+      <p><strong>Tools:</strong> Power BI</p>
+      <p><em>Comprehensive HR metrics, employee performance tracking, and workforce analytics</em></p>
+      <a href="https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects"><button style="background-color: #0078d4; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">View Project →</button></a>
+    </td>
+    <td width="50%">
+      <h3>✈️ Airline Performance Dashboard</h3>
+      <p><strong>Domain:</strong> Aviation</p>
+      <p><strong>Tools:</strong> Power BI</p>
+      <p><em>Flight metrics, operational efficiency, and performance analytics</em></p>
+      <a href="https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects"><button style="background-color: #0078d4; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">View Project →</button></a>
+    </td>
+  </tr>
+</table>
 
-### 📊 HR Analytics Dashboard
-**Human Resources** | Power BI  
-*Comprehensive HR metrics, employee performance tracking, and workforce analytics*
+<table>
+  <tr>
+    <td width="50%">
+      <h3>💰 Sales KPI Dashboard</h3>
+      <p><strong>Domain:</strong> Sales & Operations</p>
+      <p><strong>Tools:</strong> Power BI</p>
+      <p><em>Revenue tracking, sales metrics, and performance indicators</em></p>
+      <a href="https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects"><button style="background-color: #0078d4; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">View Project →</button></a>
+    </td>
+    <td width="50%">
+      <h3>🏥 COVID-19 Analysis Dashboard</h3>
+      <p><strong>Domain:</strong> Healthcare</p>
+      <p><strong>Tools:</strong> Power BI</p>
+      <p><em>Pandemic data analysis, trends, and insights visualization</em></p>
+      <a href="https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects"><button style="background-color: #0078d4; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">View Project →</button></a>
+    </td>
+  </tr>
+</table>
 
-[View Project →](https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects)
-
----
-
-### ✈️ Airline Performance Dashboard
-**Aviation** | Power BI  
-*Flight metrics, operational efficiency, and performance analytics*
-
-[View Project →](https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects)
-
----
-
-### 💰 Sales KPI Dashboard
-**Sales & Operations** | Power BI  
-*Revenue tracking, sales metrics, and performance indicators*
-
-[View Project →](https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects)
-
----
-
-### 🏥 COVID-19 Analysis Dashboard
-**Healthcare** | Power BI  
-*Pandemic data analysis, trends, and insights visualization*
-
-[View Project →](https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects)
-
----
-
-### 🍕 Zomato Restaurant Analysis
-**Food & Beverage** | Power BI  
-*Restaurant performance, ratings analysis, and market insights*
-
-[View Project →](https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects)
-
----
+<table>
+  <tr>
+    <td width="100%">
+      <h3>🍕 Zomato Restaurant Analysis</h3>
+      <p><strong>Domain:</strong> Food & Beverage</p>
+      <p><strong>Tools:</strong> Power BI</p>
+      <p><em>Restaurant performance, ratings analysis, and market insights</em></p>
+      <a href="https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects"><button style="background-color: #0078d4; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">View Project →</button></a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
