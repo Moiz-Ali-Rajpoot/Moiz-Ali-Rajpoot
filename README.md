@@ -40,14 +40,44 @@ I am committed to continuous learning and growth in the analytics field and brin
 
 ## 💼 Experience
 
-**Senior Reporting Analyst — RCM Matter** *(Jan 2026 – Present)*
-Revenue Cycle Management reporting, scalable dashboards, business insights
+<details>
+<summary>
+  <strong>Senior Reporting Analyst — RCM Matter</strong> 
+  <span style="color: #666;">(Jan 2026 – Present)</span>
+</summary>
 
-**Reporting Analyst — RCM Matter** *(Jun 2024 – Jan 2026)*
-Data reporting, dashboard development, operational analysis
+- Revenue Cycle Management reporting
+- Scalable dashboards development
+- Business insights and analytics
+- Data-driven decision support
 
-**Jr. Business Intelligence Engineer — Qorelogix** *(Jul 2023 – Jan 2024)*
-BI tools, data warehousing, data modeling, Power BI, Tableau, Google Looker
+</details>
+
+<details>
+<summary>
+  <strong>Reporting Analyst — RCM Matter</strong> 
+  <span style="color: #666;">(Jun 2024 – Jan 2026)</span>
+</summary>
+
+- Data reporting and visualization
+- Dashboard development
+- Operational analysis
+- Report automation and optimization
+
+</details>
+
+<details>
+<summary>
+  <strong>Jr. Business Intelligence Engineer — Qorelogix</strong> 
+  <span style="color: #666;">(Jul 2023 – Jan 2024)</span>
+</summary>
+
+- BI tools implementation
+- Data warehousing setup
+- Data modeling
+- Power BI, Tableau, Google Looker development
+
+</details>
 
 <br>
 
