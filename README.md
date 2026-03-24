@@ -43,7 +43,7 @@ I am committed to continuous learning and growth in the analytics field and brin
 <details>
 <summary>
   <strong>Senior Reporting Analyst — RCM Matter</strong> 
-  <span style="color: #666;">(Jan 2026 – Present)</span>
+  <span style="float: right; color: #666;">(Jan 2026 – Present)</span>
 </summary>
 
 - Revenue Cycle Management reporting
@@ -56,7 +56,7 @@ I am committed to continuous learning and growth in the analytics field and brin
 <details>
 <summary>
   <strong>Reporting Analyst — RCM Matter</strong> 
-  <span style="color: #666;">(Jun 2024 – Jan 2026)</span>
+  <span style="float: right; color: #666;">(Jun 2024 – Jan 2026)</span>
 </summary>
 
 - Data reporting and visualization
@@ -69,7 +69,7 @@ I am committed to continuous learning and growth in the analytics field and brin
 <details>
 <summary>
   <strong>Jr. Business Intelligence Engineer — Qorelogix</strong> 
-  <span style="color: #666;">(Jul 2023 – Jan 2024)</span>
+  <span style="float: right; color: #666;">(Jul 2023 – Jan 2024)</span>
 </summary>
 
 - BI tools implementation
@@ -78,7 +78,6 @@ I am committed to continuous learning and growth in the analytics field and brin
 - Power BI, Tableau, Google Looker development
 
 </details>
-
 <br>
 
 ## 🗂 Featured Projects
