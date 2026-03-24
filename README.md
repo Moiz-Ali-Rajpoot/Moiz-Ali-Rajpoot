@@ -165,8 +165,17 @@ Restaurant performance, ratings analysis, and market insights
 
 ## 🎓 Education
 
-**Bachelor of Science — Computer Science**
-University of the Punjab *(Oct 2019 – May 2023)*
+<details>
+<summary>
+<strong>Bachelors of Science - Computer Science</strong> <span style="float: right; color: #666; margin-right: 30px;">(2019 – 2023)</span>
+</summary>
+
+- CGPA = <strong>3.51 out of 4.00</strong>
+- A web based <strong>Libraray Management System</strong> created for Final Year Project
+- Got <strong>Event Management Society Lead</strong> Certificate
+- Got <strong>Class Representative</strong> Certificate
+
+</details>
 
 <br>
 
