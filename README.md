@@ -36,23 +36,6 @@ I am committed to continuous learning and growth in the analytics field and brin
 
 </div>
 
-<div align="center">
-
-**Power BI** &nbsp;&nbsp;&nbsp;&nbsp; **Tableau** &nbsp;&nbsp;&nbsp;&nbsp; **Looker** &nbsp;&nbsp;&nbsp;&nbsp; **Excel** &nbsp;&nbsp;&nbsp;&nbsp; **Google Sheets** &nbsp;&nbsp;&nbsp;&nbsp; **SQL** &nbsp;&nbsp;&nbsp;&nbsp; **Python**
-
-</div>
-
-<br>
-
-## 📊 What I Do
-
-- 📌 Design and deliver **executive dashboards and operational reports** in Power BI, Tableau and Google Looker
-- 📌 Specialize in **Revenue Cycle Management (RCM)** reporting — tracking billing, collections and performance metrics
-- 📌 Build **HR, Payroll and Marketing dashboards** for internal business teams
-- 📌 Develop and optimize **data models, data warehouses** and ETL processes
-- 📌 Perform **data profiling, data cleaning and business analysis** on complex datasets
-- 📌 Bridge the gap between raw data and business strategy for **technical and non-technical stakeholders**
-
 <br>
 
 ## 💼 Experience
