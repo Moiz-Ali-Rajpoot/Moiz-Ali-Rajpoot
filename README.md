@@ -3,7 +3,7 @@
 
 <br>
 
-# ![About](https://img.shields.io/badge/About%20Me-1f6feb?style=for-the-badge&logoColor=white)
+## About Me
 
 Highly motivated Data Analyst with a strong foundation in Business Intelligence and a clear focus on delivering data-driven insights that support business strategy, operational efficiency, and performance improvement. Experienced in MS Excel, Google Sheets, SQL, BI Tools & python with a proven ability to transform complex datasets into clear, actionable insights for both technical and non-technical stakeholders.
 
@@ -24,13 +24,13 @@ I am committed to continuous learning and growth in the analytics field and brin
 
 ## 🛠 Tools & Technologies
 
-![Micorsoft Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Google Looker](https://img.shields.io/badge/Looker-4285F4?style=flat&logo=looker&logoColor=white)
-![MS Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+<div align="center">
+
+| Power BI | Tableau | Looker | Excel | Google Sheets | SQL | Python |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="80" height="80"> | <img src="https://cdn.worldvectorlogo.com/logos/tableau.svg" width="80" height="80"> | <img src="https://cdn.worldvectorlogo.com/logos/google-looker.svg" width="80" height="80"> | <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel.svg" width="80" height="80"> | <img src="https://cdn.worldvectorlogo.com/logos/google-sheets.svg" width="80" height="80"> | <img src="https://cdn.worldvectorlogo.com/logos/mysql.svg" width="80" height="80"> | <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="80" height="80"> |
+
+</div>
 
 <br>
 
