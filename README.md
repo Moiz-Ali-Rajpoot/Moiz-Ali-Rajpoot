@@ -83,49 +83,25 @@ I am committed to continuous learning and growth in the analytics field and brin
 
 ## 🗂 Featured Projects
 
-<div style="display: flex; gap: 15px; overflow-x: auto; padding: 20px 0; scroll-behavior: smooth;">
+| |
+|---|
+| <h3>📊 HR Analytics Dashboard</h3> **Human Resources** <br> Comprehensive HR metrics, employee performance tracking, and workforce analytics <br> **Tools:** Power BI <br> [![View](https://img.shields.io/badge/View%20Project-0078D4?style=for-the-badge)](https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects) |
 
-<div style="flex: 0 0 280px; background: white; border: 1px solid #e0e0e0; border-radius: 12px; padding: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); text-align: center;">
-<h3>📊 HR Analytics Dashboard</h3>
-<p style="color: #666; font-size: 14px; font-weight: 500;">Human Resources</p>
-<p style="color: #555; font-size: 13px; line-height: 1.5;">Comprehensive HR metrics, employee performance tracking, and workforce analytics</p>
-<p style="color: #666; font-size: 12px; font-weight: 500;">Tools: Power BI</p>
-<a href="https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects" style="color: #0366d6; text-decoration: none; font-weight: 500;">View →</a>
-</div>
+| |
+|---|
+| <h3>✈️ Airline Performance</h3> **Aviation** <br> Flight metrics, operational efficiency, and performance analytics <br> **Tools:** Power BI <br> [![View](https://img.shields.io/badge/View%20Project-0078D4?style=for-the-badge)](https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects) |
 
-<div style="flex: 0 0 280px; background: white; border: 1px solid #e0e0e0; border-radius: 12px; padding: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); text-align: center;">
-<h3>✈️ Airline Performance</h3>
-<p style="color: #666; font-size: 14px; font-weight: 500;">Aviation</p>
-<p style="color: #555; font-size: 13px; line-height: 1.5;">Flight metrics, operational efficiency, and performance analytics</p>
-<p style="color: #666; font-size: 12px; font-weight: 500;">Tools: Power BI</p>
-<a href="https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects" style="color: #0366d6; text-decoration: none; font-weight: 500;">View →</a>
-</div>
+| |
+|---|
+| <h3>💰 Sales KPI Dashboard</h3> **Sales & Operations** <br> Revenue tracking, sales metrics, and performance indicators <br> **Tools:** Power BI <br> [![View](https://img.shields.io/badge/View%20Project-0078D4?style=for-the-badge)](https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects) |
 
-<div style="flex: 0 0 280px; background: white; border: 1px solid #e0e0e0; border-radius: 12px; padding: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); text-align: center;">
-<h3>💰 Sales KPI Dashboard</h3>
-<p style="color: #666; font-size: 14px; font-weight: 500;">Sales & Operations</p>
-<p style="color: #555; font-size: 13px; line-height: 1.5;">Revenue tracking, sales metrics, and performance indicators</p>
-<p style="color: #666; font-size: 12px; font-weight: 500;">Tools: Power BI</p>
-<a href="https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects" style="color: #0366d6; text-decoration: none; font-weight: 500;">View →</a>
-</div>
+| |
+|---|
+| <h3>🏥 COVID-19 Analysis</h3> **Healthcare** <br> Pandemic data analysis, trends, and insights visualization <br> **Tools:** Power BI <br> [![View](https://img.shields.io/badge/View%20Project-0078D4?style=for-the-badge)](https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects) |
 
-<div style="flex: 0 0 280px; background: white; border: 1px solid #e0e0e0; border-radius: 12px; padding: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); text-align: center;">
-<h3>🏥 COVID-19 Analysis</h3>
-<p style="color: #666; font-size: 14px; font-weight: 500;">Healthcare</p>
-<p style="color: #555; font-size: 13px; line-height: 1.5;">Pandemic data analysis, trends, and insights visualization</p>
-<p style="color: #666; font-size: 12px; font-weight: 500;">Tools: Power BI</p>
-<a href="https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects" style="color: #0366d6; text-decoration: none; font-weight: 500;">View →</a>
-</div>
-
-<div style="flex: 0 0 280px; background: white; border: 1px solid #e0e0e0; border-radius: 12px; padding: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); text-align: center;">
-<h3>🍕 Zomato Restaurant Analysis</h3>
-<p style="color: #666; font-size: 14px; font-weight: 500;">Food & Beverage</p>
-<p style="color: #555; font-size: 13px; line-height: 1.5;">Restaurant performance, ratings analysis, and market insights</p>
-<p style="color: #666; font-size: 12px; font-weight: 500;">Tools: Power BI</p>
-<a href="https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects" style="color: #0366d6; text-decoration: none; font-weight: 500;">View →</a>
-</div>
-
-</div>
+| |
+|---|
+| <h3>🍕 Zomato Restaurant Analysis</h3> **Food & Beverage** <br> Restaurant performance, ratings analysis, and market insights <br> **Tools:** Power BI <br> [![View](https://img.shields.io/badge/View%20Project-0078D4?style=for-the-badge)](https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects) |
 <br>
 
 
