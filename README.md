@@ -40,12 +40,9 @@ I am committed to continuous learning and growth in the analytics field and brin
 
 ## 💼 Experience
 
-
-<details> <summary>
-  <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-    <strong>Senior Reporting Analyst — RCM Matter</strong>
-    <span style="color: #666; font-size: 14px;">(Jan 2026 – Present)</span>
-  </div>
+<details>
+<summary>
+<strong>Senior Reporting Analyst — RCM Matter</strong> <span style="float: right; color: #666; margin-right: 30px;">(Jan 2026 – Present)</span>
 </summary>
 
 - Revenue Cycle Management reporting
@@ -55,12 +52,11 @@ I am committed to continuous learning and growth in the analytics field and brin
 
 </details>
 
+<br>
+
 <details>
 <summary>
-  <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-    <strong>Reporting Analyst — RCM Matter</strong>
-    <span style="color: #666; font-size: 14px;">(Jun 2024 – Jan 2026)</span>
-  </div>
+<strong>Reporting Analyst — RCM Matter</strong> <span style="float: right; color: #666; margin-right: 30px;">(Jun 2024 – Jan 2026)</span>
 </summary>
 
 - Data reporting and visualization
@@ -70,12 +66,11 @@ I am committed to continuous learning and growth in the analytics field and brin
 
 </details>
 
+<br>
+
 <details>
 <summary>
-  <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-    <strong>Jr. Business Intelligence Engineer — Qorelogix</strong>
-    <span style="color: #666; font-size: 14px;">(Jul 2023 – Jan 2024)</span>
-  </div>
+<strong>Jr. Business Intelligence Engineer — Qorelogix</strong> <span style="float: right; color: #666; margin-right: 30px;">(Jul 2023 – Jan 2024)</span>
 </summary>
 
 - BI tools implementation
