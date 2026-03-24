@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Moiz Ali 👋</h1>
-<h3 align="center">Data Reporting Analyst | Business Intelligence | Islamabad, Pakistan</h3>
+<h3 align="center">Data Analyst | Business Intelligence Developer | Islamabad, Pakistan</h3>
 
 <br>
 
@@ -41,12 +41,6 @@ I believe a good dashboard doesn't just show numbers — it tells a story that h
 | Sales KPI Dashboard | Sales & Operations | Power BI | [View →](https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects) |
 | COVID-19 Analysis Dashboard | Healthcare | Power BI | [View →](https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects) |
 | Zomato Restaurant Analysis | Food & Beverage | Power BI | [View →](https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects) |
-
-<br>
-
-## 📈 GitHub Stats
-
-![Moiz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moiz-Ali-Rajpoot&show_icons=true&theme=default&hide_border=true)
 
 <br>
 
