@@ -83,13 +83,51 @@ I am committed to continuous learning and growth in the analytics field and brin
 
 ## 🗂 Featured Projects
 
-| Project | Domain | Tools | Link |
-|---|---|---|---|
-| HR Analytics Dashboard | Human Resources | Power BI | [View →](https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects) |
-| Airline Performance Dashboard | Aviation | Power BI | [View →](https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects) |
-| Sales KPI Dashboard | Sales & Operations | Power BI | [View →](https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects) |
-| COVID-19 Analysis Dashboard | Healthcare | Power BI | [View →](https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects) |
-| Zomato Restaurant Analysis | Food & Beverage | Power BI | [View →](https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects) |
+<div align="center">
+
+---
+
+### 📊 HR Analytics Dashboard
+**Human Resources** | Power BI  
+*Comprehensive HR metrics, employee performance tracking, and workforce analytics*
+
+[View Project →](https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects)
+
+---
+
+### ✈️ Airline Performance Dashboard
+**Aviation** | Power BI  
+*Flight metrics, operational efficiency, and performance analytics*
+
+[View Project →](https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects)
+
+---
+
+### 💰 Sales KPI Dashboard
+**Sales & Operations** | Power BI  
+*Revenue tracking, sales metrics, and performance indicators*
+
+[View Project →](https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects)
+
+---
+
+### 🏥 COVID-19 Analysis Dashboard
+**Healthcare** | Power BI  
+*Pandemic data analysis, trends, and insights visualization*
+
+[View Project →](https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects)
+
+---
+
+### 🍕 Zomato Restaurant Analysis
+**Food & Beverage** | Power BI  
+*Restaurant performance, ratings analysis, and market insights*
+
+[View Project →](https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects)
+
+---
+
+</div>
 
 <br>
 
