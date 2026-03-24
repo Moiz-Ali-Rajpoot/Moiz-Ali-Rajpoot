@@ -83,54 +83,49 @@ I am committed to continuous learning and growth in the analytics field and brin
 
 ## 🗂 Featured Projects
 
-<div align="center">
+<div style="display: flex; gap: 15px; overflow-x: auto; padding: 20px 0; scroll-behavior: smooth;">
 
-<div style="display: flex; overflow-x: auto; gap: 20px; padding: 20px; scroll-behavior: smooth;">
-
-<div style="flex: 0 0 300px; border: 1px solid #ddd; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+<div style="flex: 0 0 280px; background: white; border: 1px solid #e0e0e0; border-radius: 12px; padding: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); text-align: center;">
 <h3>📊 HR Analytics Dashboard</h3>
-<p><strong>Human Resources</strong></p>
-<p style="font-size: 14px; margin: 10px 0;">Comprehensive HR metrics, employee performance tracking, and workforce analytics</p>
-<p><strong>Tools:</strong> Power BI</p>
-<a href="https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects" style="background-color: white; color: #667eea; padding: 8px 16px; border-radius: 5px; text-decoration: none; display: inline-block; margin-top: 10px; font-weight: bold;">View →</a>
+<p style="color: #666; font-size: 14px; font-weight: 500;">Human Resources</p>
+<p style="color: #555; font-size: 13px; line-height: 1.5;">Comprehensive HR metrics, employee performance tracking, and workforce analytics</p>
+<p style="color: #666; font-size: 12px; font-weight: 500;">Tools: Power BI</p>
+<a href="https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects" style="color: #0366d6; text-decoration: none; font-weight: 500;">View →</a>
 </div>
 
-<div style="flex: 0 0 300px; border: 1px solid #ddd; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color: white; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+<div style="flex: 0 0 280px; background: white; border: 1px solid #e0e0e0; border-radius: 12px; padding: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); text-align: center;">
 <h3>✈️ Airline Performance</h3>
-<p><strong>Aviation</strong></p>
-<p style="font-size: 14px; margin: 10px 0;">Flight metrics, operational efficiency, and performance analytics</p>
-<p><strong>Tools:</strong> Power BI</p>
-<a href="https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects" style="background-color: white; color: #f5576c; padding: 8px 16px; border-radius: 5px; text-decoration: none; display: inline-block; margin-top: 10px; font-weight: bold;">View →</a>
+<p style="color: #666; font-size: 14px; font-weight: 500;">Aviation</p>
+<p style="color: #555; font-size: 13px; line-height: 1.5;">Flight metrics, operational efficiency, and performance analytics</p>
+<p style="color: #666; font-size: 12px; font-weight: 500;">Tools: Power BI</p>
+<a href="https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects" style="color: #0366d6; text-decoration: none; font-weight: 500;">View →</a>
 </div>
 
-<div style="flex: 0 0 300px; border: 1px solid #ddd; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); color: white; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+<div style="flex: 0 0 280px; background: white; border: 1px solid #e0e0e0; border-radius: 12px; padding: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); text-align: center;">
 <h3>💰 Sales KPI Dashboard</h3>
-<p><strong>Sales & Operations</strong></p>
-<p style="font-size: 14px; margin: 10px 0;">Revenue tracking, sales metrics, and performance indicators</p>
-<p><strong>Tools:</strong> Power BI</p>
-<a href="https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects" style="background-color: white; color: #00f2fe; padding: 8px 16px; border-radius: 5px; text-decoration: none; display: inline-block; margin-top: 10px; font-weight: bold;">View →</a>
+<p style="color: #666; font-size: 14px; font-weight: 500;">Sales & Operations</p>
+<p style="color: #555; font-size: 13px; line-height: 1.5;">Revenue tracking, sales metrics, and performance indicators</p>
+<p style="color: #666; font-size: 12px; font-weight: 500;">Tools: Power BI</p>
+<a href="https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects" style="color: #0366d6; text-decoration: none; font-weight: 500;">View →</a>
 </div>
 
-<div style="flex: 0 0 300px; border: 1px solid #ddd; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); color: white; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+<div style="flex: 0 0 280px; background: white; border: 1px solid #e0e0e0; border-radius: 12px; padding: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); text-align: center;">
 <h3>🏥 COVID-19 Analysis</h3>
-<p><strong>Healthcare</strong></p>
-<p style="font-size: 14px; margin: 10px 0;">Pandemic data analysis, trends, and insights visualization</p>
-<p><strong>Tools:</strong> Power BI</p>
-<a href="https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects" style="background-color: white; color: #38f9d7; padding: 8px 16px; border-radius: 5px; text-decoration: none; display: inline-block; margin-top: 10px; font-weight: bold;">View →</a>
+<p style="color: #666; font-size: 14px; font-weight: 500;">Healthcare</p>
+<p style="color: #555; font-size: 13px; line-height: 1.5;">Pandemic data analysis, trends, and insights visualization</p>
+<p style="color: #666; font-size: 12px; font-weight: 500;">Tools: Power BI</p>
+<a href="https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects" style="color: #0366d6; text-decoration: none; font-weight: 500;">View →</a>
 </div>
 
-<div style="flex: 0 0 300px; border: 1px solid #ddd; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); color: white; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+<div style="flex: 0 0 280px; background: white; border: 1px solid #e0e0e0; border-radius: 12px; padding: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); text-align: center;">
 <h3>🍕 Zomato Restaurant Analysis</h3>
-<p><strong>Food & Beverage</strong></p>
-<p style="font-size: 14px; margin: 10px 0;">Restaurant performance, ratings analysis, and market insights</p>
-<p><strong>Tools:</strong> Power BI</p>
-<a href="https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects" style="background-color: white; color: #fee140; padding: 8px 16px; border-radius: 5px; text-decoration: none; display: inline-block; margin-top: 10px; font-weight: bold;">View →</a>
+<p style="color: #666; font-size: 14px; font-weight: 500;">Food & Beverage</p>
+<p style="color: #555; font-size: 13px; line-height: 1.5;">Restaurant performance, ratings analysis, and market insights</p>
+<p style="color: #666; font-size: 12px; font-weight: 500;">Tools: Power BI</p>
+<a href="https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects" style="color: #0366d6; text-decoration: none; font-weight: 500;">View →</a>
 </div>
 
 </div>
-
-</div>
-
 <br>
 
 
