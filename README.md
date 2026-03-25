@@ -100,15 +100,15 @@ Comprehensive RCM Cliental Contracts and Invoices Analytics
 </td>
 <td width="48%">
 
-### ✈️ Airline Performance
+### ✈️ Healthcare Business Analytics
 
-**Aviation**
+**Healthcare**
 
-Flight metrics, operational efficiency, and performance analytics
+End to End Healthcare Business Performance Dashboards
 
-**Tools:** Power BI
+**Tools:** Microsoft Excel, Google Sheets, Power Query
 
-[VIEW PROJECT](https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects)
+[VIEW PROJECT](https://github.com/Moiz-Ali-Rajpoot/Microsoft-Excel-Projects)
 
 </td>
 </tr>
