@@ -89,7 +89,7 @@ I am committed to continuous learning and growth in the analytics field and brin
 
 ### 📊 Contracts & Invoices Dashboard
 
-**RCM Contracts & Invoices**
+**Domain : Business**
 
 Comprehensive RCM Cliental Contracts and Invoices Analytics
 
@@ -102,7 +102,7 @@ Comprehensive RCM Cliental Contracts and Invoices Analytics
 
 ### ✈️ Healthcare Business Analytics
 
-**Healthcare**
+**Doman: Healthcare**
 
 End to End Healthcare Business Performance Dashboards
 
