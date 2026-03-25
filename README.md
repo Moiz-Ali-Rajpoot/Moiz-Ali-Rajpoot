@@ -87,15 +87,15 @@ I am committed to continuous learning and growth in the analytics field and brin
 <tr>
 <td width="48%">
 
-### 📊 HR Analytics Dashboard
+### 📊 Contracts & Invoices Dashboard
 
-**Human Resources**
+**RCM Contracts & Invoices**
 
-Comprehensive HR metrics, employee performance tracking, and workforce analytics
+Comprehensive RCM Cliental Contracts and Invoices Analytics
 
-**Tools:** Power BI
+**Tools:** MS Excel, Power BI
 
-[VIEW PROJECT](https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects)
+[VIEW PROJECT](https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects/tree/main/Contracts%20%26%20Invoices%20Dashboards)
 
 </td>
 <td width="48%">
