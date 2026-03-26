@@ -18,7 +18,7 @@ Currently working as a Senior Reporting Analyst in Revenue Cycle Management (RCM
 
 I am committed to continuous learning and growth in the analytics field and bring a strong sense of ownership, curiosity, and problem-solving to every challenge. I enjoy working at the intersection of data, operations, and strategy, helping organizations make smarter, faster, and more confident decisions.
 
-> *"I work at the intersection of data, operations, and strategy — helping teams move from gut feeling to evidence-based decisions."*
+> *"I work at the intersection of data, operations, and strategy helping teams move from gut feeling to evidence-based decisions."*
 
 <br>
 
