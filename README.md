@@ -87,7 +87,7 @@ I am committed to continuous learning and growth in the analytics field and brin
 <tr>
 <td width="48%">
 
-### 📊 Microsoft Power BI Dashboards
+### Microsoft Power BI Dashboards
 
 Comprehensive Power BI DAshboards
 
@@ -98,7 +98,7 @@ Comprehensive Power BI DAshboards
 </td>
 <td width="48%">
 
-### ✈️ Microsoft Excel Dashboards
+### Microsoft Excel Dashboards
 
 Comprehensive Excel DAshboards
 
