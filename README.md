@@ -87,26 +87,22 @@ I am committed to continuous learning and growth in the analytics field and brin
 <tr>
 <td width="48%">
 
-### 📊 Contracts & Invoices Dashboard
+### 📊 Microsoft Power BI Dashboards
 
-**Domain : Business**
+Comprehensive Power BI DAshboards
 
-Comprehensive RCM Cliental Contracts and Invoices Analytics
+**Tools:** EHR Softwares, Google Sheets, Databases, MS Excel, POwer Query, Power BI
 
-**Tools:** MS Excel, Power BI
-
-[VIEW PROJECT](https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects/tree/main/Contracts%20%26%20Invoices%20Dashboards)
+[VIEW PROJECT](https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects)
 
 </td>
 <td width="48%">
 
-### ✈️ Healthcare Business Analytics
+### ✈️ Microsoft Excel Dashboards
 
-**Doman: Healthcare**
+Comprehensive Excel DAshboards
 
-End to End Healthcare Business Performance Dashboards
-
-**Tools:** Microsoft Excel, Google Sheets, Power Query
+**Tools:** EHR Softwares, Google Sheets, Power Query, Microsoft Excel
 
 [VIEW PROJECT](https://github.com/Moiz-Ali-Rajpoot/Microsoft-Excel-Projects)
 
@@ -115,49 +111,6 @@ End to End Healthcare Business Performance Dashboards
 <tr>
 <td width="48%">
 
-### 💰 Sales KPI Dashboard
-
-**Sales & Operations**
-
-Revenue tracking, sales metrics, and performance indicators
-
-**Tools:** Power BI
-
-[VIEW PROJECT](https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects)
-
-</td>
-<td width="48%">
-
-### 🏥 COVID-19 Analysis
-
-**Healthcare**
-
-Pandemic data analysis, trends, and insights visualization
-
-**Tools:** Power BI
-
-[VIEW PROJECT](https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects)
-
-</td>
-</tr>
-<tr>
-<td width="48%">
-
-### 🍕 Zomato Restaurant Analysis
-
-**Food & Beverage**
-
-Restaurant performance, ratings analysis, and market insights
-
-**Tools:** Power BI
-
-[VIEW PROJECT](https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects)
-
-</td>
-<td width="48%">
-
-</td>
-</tr>
 </table>
 
 <br>
