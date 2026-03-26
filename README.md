@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Moiz Ali 👋</h1>
-<h3 align="center">Senior Reporting Analyst @ RCM Matter | Power BI • SQL • Excel | Islamabad, Pakistan</h3>
+<h3 align="center">Data Analyst | Business Analyst | Reporting Analyst | Power BI • SQL • Excel | Islamabad, Pakistan</h3>
 
 <br>
 
@@ -93,7 +93,7 @@ Comprehensive Power BI DAshboards
 
 **Tools:** EHR Softwares, Google Sheets, Databases, MS Excel, POwer Query, Power BI
 
-[VIEW PROJECT](https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects)
+[VIEW PROJECTS](https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects)
 
 </td>
 <td width="48%">
@@ -104,11 +104,9 @@ Comprehensive Excel DAshboards
 
 **Tools:** EHR Softwares, Google Sheets, Power Query, Microsoft Excel
 
-[VIEW PROJECT](https://github.com/Moiz-Ali-Rajpoot/Microsoft-Excel-Projects)
+[VIEW PROJECTS](https://github.com/Moiz-Ali-Rajpoot/Microsoft-Excel-Projects)
 
 </td>
-</tr>
-<tr>
 <td width="48%">
 
 </table>
