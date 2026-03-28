@@ -87,7 +87,7 @@ I am committed to continuous learning and growth in the analytics field and brin
 <tr>
 <td width="48%">
 
-### Microsoft Power BI Dashboards
+### Microsoft Power BI Projects
 
 Comprehensive Power BI DAshboards
 
@@ -96,9 +96,10 @@ Comprehensive Power BI DAshboards
 [VIEW PROJECTS](https://github.com/Moiz-Ali-Rajpoot/PowerBI-Projects)
 
 </td>
+
 <td width="48%">
 
-### Microsoft Excel Dashboards
+### Microsoft Excel Projects
 
 Comprehensive Excel DAshboards
 
@@ -107,8 +108,19 @@ Comprehensive Excel DAshboards
 [VIEW PROJECTS](https://github.com/Moiz-Ali-Rajpoot/Microsoft-Excel-Projects)
 
 </td>
-<td width="48%">
 
+<td width="48%">
+  
+### SQL Projects
+
+Extracting Business Insights from Different Datasets using Advanced SQL
+
+**Tools:** Google Sheets, Excel, MYSQL Workbench, SQL
+
+[VIEW PROJECTS](https://github.com/Moiz-Ali-Rajpoot/SQL-Projects)
+
+</td>
+</tr>
 </table>
 
 <br>
